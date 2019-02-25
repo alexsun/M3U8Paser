@@ -1,4 +1,5 @@
-# M3U8Kit
+
+# M3U8Kit `We have moved this project to` [M3U8Kit](https://github.com/M3U8Kit/M3U8Parser).
 
 [![Build Status](https://travis-ci.org/alexsun/M3U8Paser.svg?branch=master)](https://travis-ci.org/alexsun/M3U8Paser)
 [![CocoaPods Compatible](https://img.shields.io/cocoapods/v/M3U8Kit.svg)](https://img.shields.io/cocoapods/v/M3U8Kit.svg)
